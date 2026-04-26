@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BakchodBot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "EternalSMP-S1.aternos.me",
     "port": 28594,
-    "version": "",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
