@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BakchodBot",
+    "username": "Eternal's_AFKbot",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Kisi ki mummy khali h ky ?",
+        "Abey oo chikne idhar aa",
+        "I like to play with ur emotions"
       ]
     },
     "chat-log": true,
