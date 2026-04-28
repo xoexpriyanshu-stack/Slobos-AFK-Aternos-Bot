@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Eternal's_AFKbot",
+    "username": "gs284fjesf184",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "EternalSMP-S1.aternos.me",
     "port": 28594,
-    "version": "1.20.1",
+    "version": "1.20.11",
     "try-creative": false
   },
   "position": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
