@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "Eternal BOT",
   "bot-account": {
-    "username": "gs284fjesf184",
+    "username": "EternalSmp20758",
     "password": "",
     "type": "offline"
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -29,32 +29,32 @@
     "chat-messages": {
       "enabled": false,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 300,
       "messages": [
-        "Kisi ki mummy khali h ky ?",
-        "Abey oo chikne idhar aa",
-        "I like to play with ur emotions"
+        "Rule Toda to Admin Lega Teri",
+        "If u break any rule Admin will take ur ass away",
+        "Follow on Instagram - @eternalsmp.gg"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 1000,
     "max-reconnect-delay": 120000
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 5,
       "speed": 3000
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 1250
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 2500
     }
   },
   "modules": {
@@ -73,8 +73,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1500193149316890759/cCPVNKyxCvz-o5Nh4omA-MfMz8bF_oTSdXAT9CoYzLXJo7BCRi7yFYBHmML91Y4M4Uu3",
     "events": {
       "connect": true,
       "disconnect": true,
@@ -82,6 +82,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
